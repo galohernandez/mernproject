@@ -12,7 +12,7 @@ module.exports = async (user, mailtype) => {
     secure: false,
     auth: {
       user: "galohernandez@gmail.com",
-      pass: "ssddcxagjbkbkvte",
+      pass: "xxxxxxxxxxx",
     },
   });
 
